@@ -1,0 +1,18 @@
+#feeds{
+  display: flex;
+  flex-wrap: wrap;
+}
+p{
+  background: black;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  margin:10px;
+  width:280px;
+  height:60px;
+  overflow: hidden;
+}
+a{
+  color: grey;
+
+}
